@@ -1,1 +1,1 @@
-This ReactJS 18 shopping cart layout for one of my YouTube channel subscriber.  Enjoy.
+This ReactJS 18 shopping cart layout is for one of my YouTube channel subscriber.  Enjoy.
